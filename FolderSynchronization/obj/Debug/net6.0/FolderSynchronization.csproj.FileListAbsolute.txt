@@ -1,0 +1,14 @@
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\bin\Debug\net6.0\FolderSynchronization.exe
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\bin\Debug\net6.0\FolderSynchronization.deps.json
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\bin\Debug\net6.0\FolderSynchronization.runtimeconfig.json
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\bin\Debug\net6.0\FolderSynchronization.dll
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\bin\Debug\net6.0\FolderSynchronization.pdb
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.AssemblyInfoInputs.cache
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.AssemblyInfo.cs
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.dll
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\refint\FolderSynchronization.dll
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.pdb
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\FolderSynchronization.genruntimeconfig.cache
+C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\obj\Debug\net6.0\ref\FolderSynchronization.dll
