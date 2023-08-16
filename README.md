@@ -3,6 +3,7 @@
 ## What it does:
 
 This is a program that synchronizez two different folders unilateraly. It verifies whether or not the two folders are the same at a certain interval and upon discovering any inconsistencies it synchronizes them by emptying the target folder and copying over all the files from the source folder.
+I also need to mention that this solution contains two folders and a .txt log file. I used these to test the application throughout its development and they are not mandatory whatsoever.
 
 ## How it works:
 
