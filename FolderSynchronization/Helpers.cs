@@ -40,6 +40,49 @@ namespace FolderSynchronization
             }
         }
 
+        public static List<string> MapDirectory(string path, List<string> directoryMap, bool recursive = false)
+        {
+            var dir = new DirectoryInfo(path);
+
+            if (!dir.Exists)
+                throw new Exception(@"Directory not found at the following address: " + dir.FullName);
+
+            DirectoryInfo[] dirs = dir.GetDirectories();
+
+            if (dirs.Length > 0) recursive = true;
+
+            foreach(var f in dir.GetFiles())
+            {
+                directoryMap.Add(f.FullName);
+            }
+
+            if(recursive)
+                foreach(var subDir in dirs)
+                {
+                    directoryMap.Add(subDir.FullName);
+                    return MapDirectory(subDir.FullName, directoryMap);
+                }
+            return directoryMap;
+        }
+
+        public static List<string> GetNewlyAddedFiles(List<string> newFolder, List<string> oldFolder)
+        {
+            List<string> newlyAddedFiles = new List<string>();
+
+            newlyAddedFiles = newFolder.Except(oldFolder).ToList();
+
+            return newlyAddedFiles;
+        }
+        
+        public static List<string> GetRecentlyDeletedFiles(List<string> newFolder, List<string> oldFolder)
+        {
+            List<string> recentlyDeletedFiles = new List<string>();
+
+            recentlyDeletedFiles = oldFolder.Except(newFolder).ToList();
+
+            return recentlyDeletedFiles;
+        }
+
         private static void EmptyFolder(string path)
         {
             DirectoryInfo folderInformation = new DirectoryInfo(path);
