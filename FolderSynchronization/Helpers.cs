@@ -3,26 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace FolderSynchronization
 {
     public static class Helpers
     {
-        public static List<string> GetFolderContents(string rootPath, string folderName)
+        public static List<string> GetFolderContents(string path)
         {
-            string fullPath;
             List<string> folderContents = new List<string>();
             try
             {
-                fullPath = Path.Combine(rootPath, folderName);
-
-                folderContents.AddRange(Directory.GetFiles(fullPath).ToList());
-                folderContents.AddRange(Directory.GetDirectories(fullPath).ToList());
+                folderContents.AddRange(Directory.GetFiles(path).ToList());
+                folderContents.AddRange(Directory.GetDirectories(path).ToList());
                 return folderContents;
             }
             catch(DirectoryNotFoundException)
             {
-                Console.WriteLine("Exception: The folder could not be found at the following path: " + rootPath + @"\" +  folderName);
+                Console.WriteLine("Exception: The folder could not be found at the following path: " + path);
             }
             return null;
         }
@@ -56,31 +54,46 @@ namespace FolderSynchronization
                 directoryMap.Add(f.FullName);
             }
 
-            if(recursive)
+            foreach (var subDir in dir.GetDirectories())
+            {
+                directoryMap.Add(subDir.FullName);
+            }
+
+            if (recursive)
                 foreach(var subDir in dirs)
                 {
-                    directoryMap.Add(subDir.FullName);
-                    return MapDirectory(subDir.FullName, directoryMap);
+                   MapDirectory(subDir.FullName, directoryMap);
                 }
             return directoryMap;
         }
 
-        public static List<string> GetNewlyAddedFiles(List<string> newFolder, List<string> oldFolder)
+        public static List<string> GetNewlyAddedFiles(List<string> firstFolder, List<string> secondFolder)
         {
             List<string> newlyAddedFiles = new List<string>();
 
-            newlyAddedFiles = newFolder.Except(oldFolder).ToList();
+            newlyAddedFiles = firstFolder.Except(secondFolder).ToList();
 
             return newlyAddedFiles;
         }
         
-        public static List<string> GetRecentlyDeletedFiles(List<string> newFolder, List<string> oldFolder)
+        public static List<string> GetRecentlyDeletedFiles(List<string> firstFolder, List<string> secondFolder)
         {
             List<string> recentlyDeletedFiles = new List<string>();
 
-            recentlyDeletedFiles = oldFolder.Except(newFolder).ToList();
+            recentlyDeletedFiles = secondFolder.Except(firstFolder).ToList();
 
             return recentlyDeletedFiles;
+        }
+
+        public static List<string> TruncatePaths(List<string> paths, string folderName)
+        {
+            List<string> truncatedPaths = new List<string>();
+            foreach(var path in paths) 
+            {
+                var index = path.IndexOf(folderName) + folderName.Length;
+                truncatedPaths.Add(path.Substring(path.LastIndexOf(folderName) + folderName.Length));
+            }
+            return truncatedPaths;
         }
 
         private static void EmptyFolder(string path)
@@ -119,7 +132,7 @@ namespace FolderSynchronization
             {
                 foreach (DirectoryInfo subDir in dirs)
                 {
-                    string newDestinationDir = Path.Combine(Path.Combine(destinationPath, dir.Name), subDir.Name);
+                    string newDestinationDir = Path.Combine(destinationPath, dir.Name);
                     CopyDirectory(subDir.FullName, newDestinationDir, true);
                 }
             }

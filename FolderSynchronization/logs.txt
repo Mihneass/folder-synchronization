@@ -27,3 +27,501 @@ File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\Fold
 File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
 File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
 File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Rich Text Document.rtf
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Rich Text Document.rtf
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Microsoft Excel Worksheet.xlsx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft PowerPoint Presentation.pptx
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Publisher Document.pub
+New file deleted: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Rich Text Document.rtf
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Bitmap Image.bmp
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Word Document (2).docx
+New file added: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Word Document.docx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (2)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (3)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Microsoft Access Database.accdb
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder\New Text Document.txt
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Bitmap Image.bmp
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Word Document (2).docx
+File copied: C:\Users\eucar\OneDrive\Documents\repos\folder-synchronization\FolderSynchronization\SourceFolder\wdfewvew\vaev\New folder (4)\New Microsoft Word Document.docx
